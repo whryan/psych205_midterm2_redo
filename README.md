@@ -7,4 +7,5 @@ https://nbviewer.jupyter.org/github/whryan/psych-205-midterm2/blob/master/Practi
 
 
 ### Link to tutorials
----IN PROGRESS ---
+https://nbviewer.jupyter.org/github/whryan/psych-205-midterm2/blob/master/Tutorials%20for%20Midterm%202.ipynb
+(not all tutorials)
